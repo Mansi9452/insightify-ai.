@@ -1,10 +1,3 @@
-# insightify-ai.
-To make your repository stand out to the judges and users, your **README.md** needs to be professional, technical, and benefit-driven. This description highlights the use of the **Gemini 3 Flash** variant and the sophisticated **Google-GenAI 2026 SDK**.
-
-Here is a high-quality, "plug-and-play" README for your public repo:
-
----
-
 # 📈 Insightify AI: Enterprise Strategic Intelligence
 
 **Insightify AI** is a next-generation sentiment analysis and strategic planning terminal designed for the 2026 enterprise landscape. By leveraging the high-speed reasoning of the **Gemini 3 Flash** model, it transforms unstructured feedback streams—from CEO rants to technical logs—into actionable 30-day roadmaps.
